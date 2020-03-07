@@ -14,7 +14,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "Ambientinfotech\\Paytabsinfotech\\": ""
+      "Ambientinfotech\\Paytabsinfotech\\": "Ambientinfotech/Paytabsinfotech"
     }
   },
   "minimum-stability": "dev",
